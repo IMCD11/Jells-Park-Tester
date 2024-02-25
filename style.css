@@ -1,0 +1,3596 @@
+.www-parks-vic-gov-au {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.www-parks-vic-gov-au .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+}
+
+.www-parks-vic-gov-au .main {
+  position: absolute;
+  width: 1920px;
+  height: 66px;
+  top: 814px;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #dfe1e2;
+}
+
+.www-parks-vic-gov-au .list-item-link {
+  position: absolute;
+  width: 56px;
+  height: 22px;
+  top: 20px;
+  left: 383px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .list-item-link-how {
+  position: absolute;
+  width: 125px;
+  height: 22px;
+  top: 20px;
+  left: 495px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .list-item-link-need {
+  position: absolute;
+  width: 104px;
+  height: 22px;
+  top: 20px;
+  left: 675px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 814px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .img {
+  position: absolute;
+  width: 1920px;
+  height: 714px;
+  top: 100px;
+  left: 0;
+  object-fit: cover;
+}
+
+.www-parks-vic-gov-au .img-2 {
+  position: absolute;
+  width: 100px;
+  height: 67px;
+  top: 14px;
+  left: 382px;
+}
+
+.www-parks-vic-gov-au .before-mask-group {
+  position: absolute;
+  width: 1920px;
+  height: 110px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .nav-menubar-item {
+  position: absolute;
+  width: 96px;
+  height: 22px;
+  top: 38px;
+  left: 546px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #0a2935;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .text-wrapper {
+  width: 92px;
+  left: 695px;
+  position: absolute;
+  height: 22px;
+  top: 38px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #0a2935;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .nav-menubar-item-2 {
+  width: 103px;
+  left: 839px;
+  position: absolute;
+  height: 22px;
+  top: 38px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #0a2935;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .nav-menubar-item-3 {
+  width: 114px;
+  left: 994px;
+  position: absolute;
+  height: 22px;
+  top: 38px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #0a2935;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .form {
+  position: absolute;
+  width: 245px;
+  height: 52px;
+  top: 24px;
+  left: 1293px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  border: 1px solid;
+  border-color: #dfe1e2;
+}
+
+.www-parks-vic-gov-au .overlap-group {
+  position: relative;
+  width: 243px;
+  height: 50px;
+  top: 1px;
+  left: 1px;
+  border-radius: 25px;
+}
+
+.www-parks-vic-gov-au .combobox {
+  position: absolute;
+  width: 243px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.www-parks-vic-gov-au .div-placeholder {
+  position: relative;
+  width: 143px;
+  height: 22px;
+  top: 14px;
+  left: 25px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-2 {
+  position: absolute;
+  width: 51px;
+  height: 22px;
+  top: -1px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #757575;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-parks-vic-gov-au .button-search-button {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 10px;
+  left: 188px;
+}
+
+.www-parks-vic-gov-au .main-nav-ordered {
+  position: absolute;
+  width: 51px;
+  height: 22px;
+  top: 926px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .symbol {
+  position: absolute;
+  width: 8px;
+  height: 16px;
+  top: 930px;
+  left: 438px;
+  font-family: "Font Awesome 5 Free-Regular", Helvetica;
+  font-weight: 400;
+  color: #248821;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-nav-ordered-2 {
+  width: 47px;
+  left: 454px;
+  position: absolute;
+  height: 22px;
+  top: 926px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .symbol-2 {
+  position: absolute;
+  width: 8px;
+  height: 16px;
+  top: 930px;
+  left: 505px;
+  font-family: "Font Awesome 5 Free-Regular", Helvetica;
+  font-weight: 400;
+  color: #248821;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-nav-ordered-3 {
+  width: 75px;
+  left: 520px;
+  position: absolute;
+  height: 22px;
+  top: 926px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading {
+  position: absolute;
+  width: 257px;
+  height: 27px;
+  top: 1065px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-2 {
+  position: absolute;
+  width: 127px;
+  height: 38px;
+  top: 1007px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #248821;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 38px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-jells-park-is {
+  position: absolute;
+  width: 363px;
+  height: 189px;
+  top: 1142px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-dandenong {
+  position: absolute;
+  width: 758px;
+  height: 108px;
+  top: 1142px;
+  left: 772px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-slow-down-at {
+  position: absolute;
+  width: 660px;
+  height: 54px;
+  top: 1264px;
+  left: 772px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-surround {
+  position: absolute;
+  width: 746px;
+  height: 108px;
+  top: 1334px;
+  left: 772px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-running-through {
+  position: absolute;
+  width: 763px;
+  height: 189px;
+  top: 1456px;
+  left: 772px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-the-playgrounds {
+  position: absolute;
+  width: 760px;
+  height: 162px;
+  top: 1660px;
+  left: 772px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-as-rivers-lakes {
+  position: absolute;
+  width: 715px;
+  height: 81px;
+  top: 1838px;
+  left: 772px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .span {
+  color: #2b353b;
+}
+
+.www-parks-vic-gov-au .text-wrapper-3 {
+  color: #045676;
+  text-decoration: underline;
+}
+
+.www-parks-vic-gov-au .p {
+  width: 245px;
+  top: 2049px;
+  position: absolute;
+  height: 24px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-button {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 2567px;
+  left: 893px;
+}
+
+.www-parks-vic-gov-au .main-tablist-tab {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 2581px;
+  left: 941px;
+  background-color: #045676;
+  border-radius: 6px;
+}
+
+.www-parks-vic-gov-au .main-tablist-tab-2 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 2581px;
+  left: 968px;
+  background-color: #2b353b;
+  border-radius: 6px;
+}
+
+.www-parks-vic-gov-au .main-button-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 2567px;
+  left: 987px;
+}
+
+.www-parks-vic-gov-au .main-2 {
+  position: absolute;
+  width: 1170px;
+  height: 391px;
+  top: 2126px;
+  left: 375px;
+}
+
+.www-parks-vic-gov-au .tabpanel {
+  position: absolute;
+  width: 390px;
+  height: 369px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .overlap-group-2 {
+  position: relative;
+  width: 375px;
+  height: 369px;
+  left: 8px;
+}
+
+.www-parks-vic-gov-au .madelines-at-jells {
+  position: absolute;
+  width: 375px;
+  height: 217px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/PITOEErW/img/madelines-at-jells-jells-park-1920x1124-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-parks-vic-gov-au .div-card-content {
+  position: absolute;
+  width: 375px;
+  height: 172px;
+  top: 197px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .heading {
+  position: absolute;
+  width: 338px;
+  height: 42px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .link-madelines-at {
+  position: absolute;
+  width: 157px;
+  height: 27px;
+  top: 14px;
+  left: 15px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #045676;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .before {
+  position: absolute;
+  width: 4px;
+  height: 27px;
+  top: 15px;
+  left: 0;
+  background-color: #248821;
+}
+
+.www-parks-vic-gov-au .located-in-the-heart {
+  position: absolute;
+  width: 368px;
+  height: 110px;
+  top: 61px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .overlap-wrapper {
+  height: 374px;
+  left: 390px;
+  position: absolute;
+  width: 390px;
+  top: 0;
+}
+
+.www-parks-vic-gov-au .overlap-2 {
+  position: relative;
+  width: 375px;
+  height: 374px;
+  left: 8px;
+}
+
+.www-parks-vic-gov-au .element-picnic-jells-park {
+  position: absolute;
+  width: 375px;
+  height: 217px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/PITOEErW/img/1-picnic-jells-park-1920x1124-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-parks-vic-gov-au .div-card-content-2 {
+  height: 177px;
+  position: absolute;
+  width: 375px;
+  top: 197px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .heading-2 {
+  width: 338px;
+  height: 69px;
+  left: 0;
+  background-color: #ffffff;
+  position: absolute;
+  top: 0;
+}
+
+.www-parks-vic-gov-au .before-2 {
+  position: absolute;
+  width: 4px;
+  height: 54px;
+  top: 15px;
+  left: 0;
+  background-color: #248821;
+}
+
+.www-parks-vic-gov-au .picnic-areas-and {
+  position: absolute;
+  width: 283px;
+  height: 54px;
+  top: 14px;
+  left: 15px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .enjoy-a-picnic-at {
+  position: absolute;
+  width: 345px;
+  height: 88px;
+  top: 88px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .overlap-group-wrapper {
+  height: 391px;
+  left: 780px;
+  position: absolute;
+  width: 390px;
+  top: 0;
+}
+
+.www-parks-vic-gov-au .overlap-3 {
+  position: relative;
+  width: 375px;
+  height: 391px;
+  left: 8px;
+}
+
+.www-parks-vic-gov-au .jells-park {
+  position: absolute;
+  width: 375px;
+  height: 217px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/PITOEErW/img/jells-park-blindsquare-app-1920x1124-jpg@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-parks-vic-gov-au .div-card-content-3 {
+  height: 194px;
+  position: absolute;
+  width: 375px;
+  top: 197px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .link-blindsquare-app {
+  position: absolute;
+  width: 235px;
+  height: 27px;
+  top: 14px;
+  left: 15px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #045676;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .the-blindsquare-app {
+  position: absolute;
+  width: 373px;
+  height: 132px;
+  top: 61px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .main-3 {
+  position: absolute;
+  width: 1920px;
+  height: 540px;
+  top: 2657px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/PITOEErW/img/main-2.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-parks-vic-gov-au .div-row-wrapper {
+  height: 540px;
+  background-color: #2b353bcc;
+}
+
+.www-parks-vic-gov-au .div-row {
+  position: relative;
+  width: 1170px;
+  height: 457px;
+  top: 42px;
+  left: 375px;
+}
+
+.www-parks-vic-gov-au .heading-tours-and {
+  position: absolute;
+  width: 434px;
+  height: 24px;
+  top: -1px;
+  left: 368px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .text-wrapper-4 {
+  position: absolute;
+  width: 657px;
+  height: 40px;
+  top: 38px;
+  left: 258px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .there-are-more-than {
+  position: absolute;
+  width: 709px;
+  height: 94px;
+  top: 92px;
+  left: 232px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .discover-more-than {
+  position: absolute;
+  width: 710px;
+  height: 94px;
+  top: 200px;
+  left: 231px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .licensed-tour {
+  position: absolute;
+  width: 756px;
+  height: 80px;
+  top: 308px;
+  left: 207px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .link {
+  position: absolute;
+  width: 315px;
+  height: 54px;
+  top: 403px;
+  left: 428px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-5 {
+  position: absolute;
+  width: 254px;
+  height: 27px;
+  top: 12px;
+  left: 31px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-3 {
+  top: 3354px;
+  position: absolute;
+  width: 257px;
+  height: 27px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-how {
+  position: absolute;
+  width: 284px;
+  height: 38px;
+  top: 3296px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #248821;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 38px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-4 {
+  position: absolute;
+  width: 1920px;
+  height: 727px;
+  top: 3432px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-6 {
+  position: absolute;
+  width: 876px;
+  height: 27px;
+  top: -1px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .div-location-map-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 685px;
+  top: 42px;
+  left: 0;
+  background-color: #cccccc;
+}
+
+.www-parks-vic-gov-au .div-location-map {
+  position: relative;
+  width: 475px;
+  height: 127px;
+  top: 100px;
+  left: 375px;
+  background-color: #2b353b;
+}
+
+.www-parks-vic-gov-au .before-3 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 45px;
+  left: 35px;
+}
+
+.www-parks-vic-gov-au .link-dandenong {
+  position: absolute;
+  width: 213px;
+  height: 22px;
+  top: 49px;
+  left: 77px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-when {
+  position: absolute;
+  width: 192px;
+  height: 24px;
+  top: 4258px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .div-wrapper {
+  position: absolute;
+  width: 765px;
+  height: 27px;
+  top: 4298px;
+  left: 382px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-7 {
+  position: absolute;
+  width: 762px;
+  height: 27px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-list-item {
+  position: absolute;
+  width: 375px;
+  height: 28px;
+  top: 4298px;
+  left: 1162px;
+}
+
+.www-parks-vic-gov-au .link-jells-park {
+  position: absolute;
+  width: 167px;
+  height: 28px;
+  top: -1px;
+  left: 42px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .before-4 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: -2px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .main-heading-4 {
+  position: absolute;
+  width: 135px;
+  height: 24px;
+  top: 4465px;
+  left: 375px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-list-list {
+  position: absolute;
+  width: 1155px;
+  height: 260px;
+  top: 4505px;
+  left: 382px;
+}
+
+.www-parks-vic-gov-au .item-link {
+  width: 359px;
+  top: 29px;
+  left: 18px;
+  position: absolute;
+  height: 22px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-jells-lake {
+  width: 402px;
+  top: 29px;
+  left: 596px;
+  position: absolute;
+  height: 22px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-ashes {
+  width: 379px;
+  top: 81px;
+  left: 18px;
+  position: absolute;
+  height: 22px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-jells-east {
+  width: 399px;
+  top: 81px;
+  left: 596px;
+  position: absolute;
+  height: 22px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-jells {
+  width: 454px;
+  top: 133px;
+  left: 18px;
+  position: absolute;
+  height: 22px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-2 {
+  width: 420px;
+  top: 133px;
+  left: 596px;
+  position: absolute;
+  height: 22px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-pines {
+  width: 375px;
+  top: 185px;
+  left: 18px;
+  position: absolute;
+  height: 22px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-oaks {
+  position: absolute;
+  width: 372px;
+  height: 22px;
+  top: 185px;
+  left: 596px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-link-lake-lawn {
+  position: absolute;
+  width: 343px;
+  height: 22px;
+  top: 237px;
+  left: 18px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-5 {
+  top: 4872px;
+  position: absolute;
+  width: 257px;
+  height: 27px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-need {
+  position: absolute;
+  width: 236px;
+  height: 38px;
+  top: 4814px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #248821;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 38px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-6 {
+  width: 128px;
+  top: 4949px;
+  position: absolute;
+  height: 24px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-5 {
+  position: absolute;
+  width: 765px;
+  height: 630px;
+  top: 4989px;
+  left: 382px;
+}
+
+.www-parks-vic-gov-au .visiting-a-park-can-wrapper {
+  position: absolute;
+  width: 765px;
+  height: 81px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .visiting-a-park-can {
+  position: absolute;
+  width: 749px;
+  height: 81px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .a-fully-accessible-wrapper {
+  height: 54px;
+  top: 96px;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .a-fully-accessible {
+  position: absolute;
+  width: 728px;
+  height: 54px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .parks-victoria-s-wrapper {
+  height: 81px;
+  top: 165px;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .parks-victoria-s {
+  position: absolute;
+  width: 724px;
+  height: 81px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .assistance-dogs-are-wrapper {
+  height: 54px;
+  top: 261px;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .assistance-dogs-are {
+  position: absolute;
+  width: 719px;
+  height: 54px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .strong-blindsquare {
+  position: absolute;
+  width: 187px;
+  height: 27px;
+  top: 328px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .parks-victoria-has-wrapper {
+  height: 216px;
+  top: 372px;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .parks-victoria-has {
+  width: 752px;
+  height: 216px;
+  top: -2px;
+  left: 0;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}
+
+.www-parks-vic-gov-au .for-further-wrapper {
+  height: 27px;
+  top: 603px;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .for-further {
+  position: absolute;
+  width: 652px;
+  height: 27px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-list-item-2 {
+  top: 4989px;
+  position: absolute;
+  width: 375px;
+  height: 28px;
+  left: 1162px;
+}
+
+.www-parks-vic-gov-au .link-all-abilities {
+  position: absolute;
+  width: 132px;
+  height: 28px;
+  top: -1px;
+  left: 42px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-list-item-3 {
+  top: 5038px;
+  position: absolute;
+  width: 375px;
+  height: 28px;
+  left: 1162px;
+}
+
+.www-parks-vic-gov-au .link-autism-friendly {
+  position: absolute;
+  width: 155px;
+  height: 28px;
+  top: -1px;
+  left: 42px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-list-item-4 {
+  top: 5087px;
+  position: absolute;
+  width: 375px;
+  height: 28px;
+  left: 1162px;
+}
+
+.www-parks-vic-gov-au .link-assistance-dogs {
+  position: absolute;
+  width: 118px;
+  height: 28px;
+  top: -1px;
+  left: 42px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-list-item-5 {
+  top: 5136px;
+  position: absolute;
+  width: 375px;
+  height: 28px;
+  left: 1162px;
+}
+
+.www-parks-vic-gov-au .link-blindsquare {
+  position: absolute;
+  width: 91px;
+  height: 28px;
+  top: -1px;
+  left: 42px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-7 {
+  position: absolute;
+  width: 221px;
+  height: 24px;
+  top: 5668px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-nature-being {
+  position: absolute;
+  width: 1103px;
+  height: 54px;
+  top: 5707px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-list {
+  position: absolute;
+  width: 1155px;
+  height: 566px;
+  top: 5777px;
+  left: 382px;
+}
+
+.www-parks-vic-gov-au .item {
+  position: absolute;
+  width: 1155px;
+  height: 65px;
+  top: 10px;
+  left: 0;
+  background-color: #be531c;
+}
+
+.www-parks-vic-gov-au .heading-3 {
+  width: 1025px;
+  height: 65px;
+  left: 65px;
+  background-color: #f2ddd2;
+  position: absolute;
+  top: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-8 {
+  position: absolute;
+  width: 486px;
+  height: 27px;
+  top: 18px;
+  left: 10px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #045676;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .before-5 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .after {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 0;
+  left: 1090px;
+}
+
+.www-parks-vic-gov-au .item-2 {
+  height: 341px;
+  top: 75px;
+  background-color: #f3f3f4;
+  position: absolute;
+  width: 1155px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .heading-4 {
+  position: absolute;
+  width: 235px;
+  height: 40px;
+  top: 50px;
+  left: 30px;
+}
+
+.www-parks-vic-gov-au .before-6 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-9 {
+  position: absolute;
+  width: 180px;
+  height: 24px;
+  top: 7px;
+  left: 55px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #be531c;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .jells-lake-is-wrapper {
+  position: absolute;
+  width: 1095px;
+  height: 54px;
+  top: 105px;
+  left: 30px;
+}
+
+.www-parks-vic-gov-au .jells-lake-is {
+  position: absolute;
+  width: 1088px;
+  height: 54px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .heading-5 {
+  position: absolute;
+  width: 300px;
+  height: 40px;
+  top: 209px;
+  left: 30px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-10 {
+  position: absolute;
+  width: 245px;
+  height: 24px;
+  top: 7px;
+  left: 55px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #be531c;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .jetty-jetty-will {
+  position: absolute;
+  width: 410px;
+  height: 27px;
+  top: 263px;
+  left: 30px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-3 {
+  height: 65px;
+  top: 426px;
+  background-color: #be531c;
+  position: absolute;
+  width: 1155px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-11 {
+  position: absolute;
+  width: 257px;
+  height: 27px;
+  top: 18px;
+  left: 10px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #045676;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .item-4 {
+  height: 65px;
+  top: 501px;
+  background-color: #007baa;
+  position: absolute;
+  width: 1155px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .heading-6 {
+  width: 1025px;
+  height: 65px;
+  left: 65px;
+  background-color: #cce4ee;
+  position: absolute;
+  top: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-12 {
+  position: absolute;
+  width: 282px;
+  height: 27px;
+  top: 18px;
+  left: 10px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #045676;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-heading-how-2 {
+  width: 236px;
+  top: 6392px;
+  position: absolute;
+  height: 24px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .main-6 {
+  position: absolute;
+  width: 765px;
+  height: 837px;
+  top: 6432px;
+  left: 382px;
+}
+
+.www-parks-vic-gov-au .heading-jells-park {
+  position: absolute;
+  width: 186px;
+  height: 27px;
+  top: -1px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .two-new-nature-based-wrapper {
+  height: 81px;
+  top: 47px;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .two-new-nature-based {
+  position: absolute;
+  width: 765px;
+  height: 81px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .heading-jells-park-2 {
+  position: absolute;
+  width: 229px;
+  height: 27px;
+  top: 184px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .p-2 {
+  height: 270px;
+  top: 232px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .overlap-group-3 {
+  position: relative;
+  width: 763px;
+  height: 268px;
+}
+
+.www-parks-vic-gov-au .a-project-is-wrapper {
+  position: absolute;
+  width: 701px;
+  height: 81px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .a-project-is {
+  position: absolute;
+  width: 704px;
+  height: 81px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-13 {
+  color: #000000;
+}
+
+.www-parks-vic-gov-au .span-2 {
+  position: absolute;
+  width: 159px;
+  height: 24px;
+  top: 56px;
+  left: 84px;
+  background-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-14 {
+  position: absolute;
+  width: 160px;
+  height: 27px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .span-3 {
+  position: absolute;
+  width: 763px;
+  height: 213px;
+  top: 56px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-15 {
+  position: absolute;
+  width: 505px;
+  height: 27px;
+  top: -2px;
+  left: 243px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .landscapes-of-jells {
+  position: absolute;
+  width: 764px;
+  height: 189px;
+  top: 24px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .p-3 {
+  height: 27px;
+  top: 517px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .heading-jells-park-3 {
+  position: absolute;
+  width: 202px;
+  height: 27px;
+  top: 558px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .we-are-activating-wrapper {
+  height: 189px;
+  top: 606px;
+  position: absolute;
+  width: 765px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .we-are-activating {
+  position: absolute;
+  width: 766px;
+  height: 189px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.www-parks-vic-gov-au .main-7 {
+  position: absolute;
+  width: 1155px;
+  height: 671px;
+  top: 7369px;
+  left: 382px;
+  object-fit: cover;
+}
+
+.www-parks-vic-gov-au .main-8 {
+  position: absolute;
+  width: 1920px;
+  height: 168px;
+  top: 8140px;
+  left: 0;
+  background-color: #f3f3f4;
+}
+
+.www-parks-vic-gov-au .heading-contact {
+  position: absolute;
+  width: 182px;
+  height: 24px;
+  top: 49px;
+  left: 382px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 21px;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .div-col-sm {
+  position: absolute;
+  width: 292px;
+  height: 68px;
+  top: 50px;
+  left: 765px;
+}
+
+.www-parks-vic-gov-au .address-waverley {
+  position: absolute;
+  width: 167px;
+  height: 46px;
+  top: -1px;
+  left: 8px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #2b353b;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.9px;
+}
+
+.www-parks-vic-gov-au .link-2 {
+  position: absolute;
+  width: 59px;
+  height: 22px;
+  top: 45px;
+  left: 8px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .footer {
+  position: absolute;
+  width: 1920px;
+  height: 351px;
+  top: 8332px;
+  left: 0;
+  object-fit: cover;
+}
+
+.www-parks-vic-gov-au .footer-2 {
+  position: absolute;
+  width: 200px;
+  height: 543px;
+  top: 8749px;
+  left: 375px;
+}
+
+.www-parks-vic-gov-au .p-global-footer {
+  position: absolute;
+  width: 142px;
+  height: 22px;
+  top: 0;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-16 {
+  position: absolute;
+  width: 96px;
+  height: 22px;
+  top: -1px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .bays-lakes-and-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 42px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .bays-lakes-and {
+  position: absolute;
+  width: 100px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .link-3 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 93px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-17 {
+  position: absolute;
+  width: 128px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-4 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 122px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-18 {
+  width: 105px;
+  position: absolute;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-5 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 151px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-19 {
+  position: absolute;
+  width: 114px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-6 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 180px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-20 {
+  position: absolute;
+  width: 71px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-7 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 209px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-21 {
+  position: absolute;
+  width: 81px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .footer-3 {
+  position: absolute;
+  width: 200px;
+  height: 543px;
+  top: 8749px;
+  left: 617px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-22 {
+  position: absolute;
+  width: 92px;
+  height: 22px;
+  top: -1px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-8 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 42px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-23 {
+  position: absolute;
+  width: 32px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-9 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 71px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-24 {
+  position: absolute;
+  width: 86px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .canoeing-and-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 100px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .canoeing-and {
+  position: absolute;
+  width: 90px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-25 {
+  position: absolute;
+  width: 46px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .text-wrapper-26 {
+  position: absolute;
+  width: 41px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .text-wrapper-27 {
+  position: absolute;
+  width: 96px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-10 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 238px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-28 {
+  width: 106px;
+  position: absolute;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-11 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 267px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-29 {
+  position: absolute;
+  width: 90px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-12 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 296px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-30 {
+  position: absolute;
+  width: 37px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-13 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 325px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-31 {
+  position: absolute;
+  width: 101px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .footer-4 {
+  position: absolute;
+  width: 200px;
+  height: 543px;
+  top: 8749px;
+  left: 859px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-32 {
+  position: absolute;
+  width: 104px;
+  height: 22px;
+  top: -1px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .text-wrapper-33 {
+  position: absolute;
+  width: 60px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-14 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 100px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-34 {
+  position: absolute;
+  width: 91px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-15 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 129px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-35 {
+  position: absolute;
+  width: 59px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-16 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 158px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-36 {
+  position: absolute;
+  width: 85px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-17 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 187px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-37 {
+  position: absolute;
+  width: 108px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-18 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 216px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .link-19 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 245px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-38 {
+  position: absolute;
+  width: 107px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-20 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 274px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-39 {
+  width: 100px;
+  position: absolute;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-21 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 303px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-40 {
+  width: 76px;
+  position: absolute;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-22 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 332px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-41 {
+  width: 55px;
+  left: 0;
+  color: #045676;
+  position: absolute;
+  height: 22px;
+  top: -2px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-23 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 361px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-42 {
+  position: absolute;
+  width: 74px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-24 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 390px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-43 {
+  position: absolute;
+  width: 93px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-25 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 419px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-44 {
+  position: absolute;
+  width: 94px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .point-nepean-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 448px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .point-nepean {
+  position: absolute;
+  width: 89px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .link-26 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 499px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-45 {
+  width: 64px;
+  position: absolute;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .footer-5 {
+  position: absolute;
+  width: 200px;
+  height: 543px;
+  top: 8749px;
+  left: 1101px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-46 {
+  position: absolute;
+  width: 115px;
+  height: 22px;
+  top: -1px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .text-wrapper-47 {
+  position: absolute;
+  width: 118px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .community-engagement-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 71px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .community-engagement {
+  position: absolute;
+  width: 82px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .conservation-and-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 122px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .conservation-and {
+  position: absolute;
+  width: 115px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .link-27 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 173px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-48 {
+  position: absolute;
+  width: 51px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .corporate-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 202px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .corporate {
+  position: absolute;
+  width: 83px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .doing-business-with-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 253px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .doing-business-with {
+  position: absolute;
+  width: 131px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .event-and-filming-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 304px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .event-and-filming {
+  position: absolute;
+  width: 113px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .link-28 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 355px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-49 {
+  position: absolute;
+  width: 120px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-29 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 384px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-50 {
+  position: absolute;
+  width: 113px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-30 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 413px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-51 {
+  position: absolute;
+  width: 40px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-31 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 442px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-52 {
+  position: absolute;
+  width: 53px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-32 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 471px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-53 {
+  position: absolute;
+  width: 98px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-33 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 500px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-54 {
+  position: absolute;
+  width: 84px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .footer-6 {
+  position: absolute;
+  width: 200px;
+  height: 543px;
+  top: 8749px;
+  left: 1343px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-55 {
+  width: 105px;
+  height: 22px;
+  top: -1px;
+  left: 0;
+  font-weight: 600;
+  color: #2b353b;
+  font-size: 15px;
+  line-height: 22px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-56 {
+  position: absolute;
+  width: 69px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .text-wrapper-57 {
+  position: absolute;
+  width: 115px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .healthy-parks-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 158px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .healthy-parks {
+  position: absolute;
+  width: 99px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .heritage-management-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 209px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .heritage-management {
+  position: absolute;
+  width: 87px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .link-34 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 260px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-58 {
+  position: absolute;
+  width: 123px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-35 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 289px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .managing-country-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 51px;
+  top: 318px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .managing-country {
+  position: absolute;
+  width: 120px;
+  height: 44px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.www-parks-vic-gov-au .link-36 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 369px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-59 {
+  position: absolute;
+  width: 88px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-37 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 398px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-60 {
+  position: absolute;
+  width: 129px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-38 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 427px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .link-39 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 456px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-61 {
+  position: absolute;
+  width: 52px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-40 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 485px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .link-41 {
+  position: absolute;
+  width: 135px;
+  height: 29px;
+  top: 514px;
+  left: 0;
+}
+
+.www-parks-vic-gov-au .text-wrapper-62 {
+  position: absolute;
+  width: 130px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #045676;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .footer-7 {
+  position: absolute;
+  width: 1920px;
+  height: 222px;
+  top: 9301px;
+  left: 0;
+  background-color: #00402e;
+}
+
+.www-parks-vic-gov-au .overlap-4 {
+  position: relative;
+  height: 222px;
+  background-image: url(https://c.animaapp.com/PITOEErW/img/footer-bg-svg-fill.svg);
+  background-size: 100% 100%;
+}
+
+.www-parks-vic-gov-au .parks-logo-white-svg {
+  position: absolute;
+  width: 81px;
+  height: 54px;
+  top: 24px;
+  left: 1345px;
+}
+
+.www-parks-vic-gov-au .vic-gov-white-svg {
+  position: absolute;
+  width: 95px;
+  height: 54px;
+  top: 24px;
+  left: 1450px;
+}
+
+.www-parks-vic-gov-au .text-wrapper-63 {
+  width: 430px;
+  height: 22px;
+  top: 174px;
+  left: 375px;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 22px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Open Sans", Helvetica;
+  letter-spacing: 0;
+}
+
+.www-parks-vic-gov-au .div-global-footer {
+  position: absolute;
+  width: 772px;
+  height: 120px;
+  top: 24px;
+  left: 375px;
+}
+
+.www-parks-vic-gov-au .link-about-us {
+  position: absolute;
+  width: 59px;
+  height: 22px;
+  top: -2px;
+  left: 1px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-42 {
+  position: absolute;
+  width: 97px;
+  height: 19px;
+  top: 1px;
+  left: 67px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-64 {
+  position: absolute;
+  width: 78px;
+  height: 22px;
+  top: -2px;
+  left: 11px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-43 {
+  position: absolute;
+  width: 210px;
+  height: 19px;
+  top: 1px;
+  left: 164px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-65 {
+  position: absolute;
+  width: 191px;
+  height: 22px;
+  top: -2px;
+  left: 11px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-44 {
+  position: absolute;
+  width: 175px;
+  height: 19px;
+  top: 1px;
+  left: 375px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-66 {
+  position: absolute;
+  width: 157px;
+  height: 22px;
+  top: -2px;
+  left: 11px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-45 {
+  position: absolute;
+  width: 53px;
+  height: 19px;
+  top: 1px;
+  left: 550px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-67 {
+  width: 34px;
+  left: 11px;
+  color: #ffffff;
+  position: absolute;
+  height: 22px;
+  top: -2px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-46 {
+  position: absolute;
+  width: 65px;
+  height: 19px;
+  top: 1px;
+  left: 603px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-68 {
+  position: absolute;
+  width: 47px;
+  height: 22px;
+  top: -2px;
+  left: 11px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-47 {
+  position: absolute;
+  width: 72px;
+  height: 19px;
+  top: 1px;
+  left: 668px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-69 {
+  position: absolute;
+  width: 54px;
+  height: 22px;
+  top: -2px;
+  left: 11px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .link-48 {
+  position: absolute;
+  width: 83px;
+  height: 19px;
+  top: 1px;
+  left: 741px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #ffffff;
+}
+
+.www-parks-vic-gov-au .text-wrapper-70 {
+  position: absolute;
+  width: 64px;
+  height: 22px;
+  top: -2px;
+  left: 11px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-parks-vic-gov-au .strong-victoria-s {
+  position: absolute;
+  width: 754px;
+  height: 66px;
+  top: 52px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
